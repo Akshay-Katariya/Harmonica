@@ -23,6 +23,6 @@ More details are attached to the sketch file.
 
 **Demo:**
 
-![Profile](demo/profile.png)
-
 https://user-images.githubusercontent.com/11885459/175819992-5f5eb2b0-bf43-4aec-980b-c6a57227b351.mov
+
+![Profile](demo/profile.png)
