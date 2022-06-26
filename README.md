@@ -22,4 +22,6 @@ More details are attached to the sketch file.
 6.  Working on both Android & iOS platforms
 
 **Demo:**
-![Application Demo](demo/demo.mov)
+
+https://user-images.githubusercontent.com/11885459/175819907-d180ec9e-5b04-4402-8177-a7ad61b69b9d.mov
+
