@@ -22,4 +22,4 @@ More details are attached to the sketch file.
 6.  Working on both Android & iOS platforms
 
 **Demo:**
-![Application Demo](https://github.com/Akshay-Katariya/Harmonica/blob/main/demo/demo.mov)
+![Application Demo](demo/demo.mov)
