@@ -1,7 +1,11 @@
 # Harmonica
 
 **Demo:**
-https://user-images.githubusercontent.com/11885459/175819907-d180ec9e-5b04-4402-8177-a7ad61b69b9d.mov
+
+
+
+https://user-images.githubusercontent.com/11885459/175819992-5f5eb2b0-bf43-4aec-980b-c6a57227b351.mov
+
 
 
 This code assignment was part of **React Native Engineer Technical Task**
@@ -24,8 +28,3 @@ More details are attached to the sketch file.
 4.  Redux implementation using hooks
 5.  React navigation v5 along with stacks for RootStack HomeStack & reset stack after landing to home page
 6.  Working on both Android & iOS platforms
-
-
-
-
-
