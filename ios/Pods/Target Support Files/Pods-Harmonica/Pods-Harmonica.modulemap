@@ -1,0 +1,6 @@
+module Pods_Harmonica {
+  umbrella header "Pods-Harmonica-umbrella.h"
+
+  export *
+  module * { export * }
+}

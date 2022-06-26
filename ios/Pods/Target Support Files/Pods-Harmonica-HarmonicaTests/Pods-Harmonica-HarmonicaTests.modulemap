@@ -1,0 +1,6 @@
+module Pods_Harmonica_HarmonicaTests {
+  umbrella header "Pods-Harmonica-HarmonicaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
