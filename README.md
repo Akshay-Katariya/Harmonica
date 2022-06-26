@@ -1,5 +1,9 @@
 # Harmonica
 
+**Demo:**
+https://user-images.githubusercontent.com/11885459/175819907-d180ec9e-5b04-4402-8177-a7ad61b69b9d.mov
+
+
 This code assignment was part of **React Native Engineer Technical Task**
 
 As part of our recruitment process for the React Native position, you are kindly requested to answer the below task and send it back to us in a maximum three days.
@@ -21,7 +25,7 @@ More details are attached to the sketch file.
 5.  React navigation v5 along with stacks for RootStack HomeStack & reset stack after landing to home page
 6.  Working on both Android & iOS platforms
 
-**Demo:**
 
-https://user-images.githubusercontent.com/11885459/175819907-d180ec9e-5b04-4402-8177-a7ad61b69b9d.mov
+
+
 
